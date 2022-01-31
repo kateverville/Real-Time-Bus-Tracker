@@ -1,5 +1,7 @@
 # Real-Time-Bus-Tracker
 
+<img src= "bustracker.png" width='300'/>
+
 ## Description:
 
 I am working on an assignment as part of the all women's cohort of MIT's full (MERN) stack development bootcamp. This program shows a map of Boston with two permenant markers for MIT and Harvard. The animation shows the bus stops between MIT and Harvard and uses html, CSS, javascript, and a first introduction to mapbox.
