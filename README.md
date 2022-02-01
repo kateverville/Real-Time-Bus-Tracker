@@ -4,7 +4,7 @@
 
 ## Description:
 
-I am working on an assignment as part of the all women's cohort of MIT's full (MERN) stack development bootcamp. This program shows a map of Boston with two permenant markers for MIT and Harvard. The animation shows the bus stops between MIT and Harvard and uses html, CSS, javascript, and a first introduction to mapbox.
+I am working on an assignment as part of the all-women cohort of MIT's full (MERN) stack development bootcamp. This program imports a map of Boston from Mapbox, creates two permanent markers for the MIT and Harvard campuses. Animation is added to track the bus as it stops between MIT and Harvard and uses html, CSS, JavaScript, and a first introduction to Mapbox.
 
 ## Installation:
 
@@ -20,4 +20,4 @@ Massachusetts Institute of Technology (MIT) (C)John Williams 2020. See LICENSE f
 
 ## Roadmap:
 
-I hope create similar projects for alternate cities and make other future improvements as I become more familar with available APIs and customize the images.
+I hope create similar projects for other cities cities and make other future improvements to this code as I become more familar with available APIs and customize the images.
